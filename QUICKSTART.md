@@ -7,8 +7,8 @@ Get up and running with PubMed Paper Fetcher in 5 minutes!
 1. **Clone and setup:**
 
    ```bash
-   git clone <repository-url>
-   cd <directory>
+   git clone https://github.com/Likhithaega/pubmed.git
+   cd pubmed
    ./setup.sh
    ```
 

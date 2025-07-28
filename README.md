@@ -19,8 +19,8 @@ A Python program to fetch research papers from PubMed that have authors affiliat
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <directory>
+   git clone https://github.com/Likhithaega/pubmed.git
+   cd pubmed
    ```
 
 2. **Run the setup script:**
@@ -33,8 +33,8 @@ A Python program to fetch research papers from PubMed that have authors affiliat
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <directory>
+   git clone https://github.com/Likhithaega/pubmed.git
+   cd pubmed
    ```
 
 2. **Install Poetry (if not installed):**
@@ -211,7 +211,7 @@ likitha/
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Likhithaega/pubmed.git
    cd pubmed-paper-fetcher
    ```
 
