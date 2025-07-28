@@ -2,7 +2,7 @@
 
 __version__ = "0.1.0"
 __author__ = "likhithaega"
-__email__ = "likithaega@gmail.com.com"
+__email__ = "likithaega@gmail.com"
 
 from .fetcher import PubMedFetcher
 from .models import Paper, Author, Affiliation
